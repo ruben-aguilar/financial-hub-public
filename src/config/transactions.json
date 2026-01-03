@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "tx_24a5a1ca73f6",
+    "date": "2026-01-27",
+    "description": "Savings Transfer",
+    "amount": 340,
+    "category": "savings",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_fbd937dee9cc",
+    "date": "2026-01-26",
+    "description": "Online Shop Order",
+    "amount": 140,
+    "category": "shopping",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_0766ccb68545",
+    "date": "2026-01-25",
+    "description": "ACME Payroll",
+    "amount": 3950,
+    "category": "salary",
+    "account": "checking",
+    "type": "income"
+  },
+  {
+    "id": "tx_a96bdbc335d3",
+    "date": "2026-01-23",
+    "description": "Downtown Cinema",
+    "amount": 34,
+    "category": "entertainment",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_fc1ab5e8913a",
+    "date": "2026-01-22",
+    "description": "Streaming Plus Subscription",
+    "amount": 19.99,
+    "category": "subscriptions",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_7547d3798564",
+    "date": "2026-01-20",
+    "description": "Green Grocers",
+    "amount": 111,
+    "category": "pendiente",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_c945efd09b0c",
+    "date": "2026-01-16",
+    "description": "Transit Pass",
+    "amount": 78,
+    "category": "transport",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_27888489dcf2",
+    "date": "2026-01-14",
+    "description": "Cafe Aurora",
+    "amount": 55,
+    "category": "dining",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_39fa6fa5efc6",
+    "date": "2026-01-12",
+    "description": "Happy Paws Pet Food",
+    "amount": 53,
+    "category": "pets",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_ed1d1b7ccabe",
+    "date": "2026-01-10",
+    "description": "Fresh Mart Grocery",
+    "amount": 216,
+    "category": "groceries",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_91fcc600d436",
+    "date": "2026-01-09",
+    "description": "City Utilities - Water",
+    "amount": 38,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_3bf60c50c0d7",
+    "date": "2026-01-05",
+    "description": "City Utilities - Electric",
+    "amount": 100,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_afa6eece0406",
+    "date": "2026-01-01",
+    "description": "Apartment Rent",
+    "amount": 1225,
+    "category": "rent",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_d425b9866bde",
+    "date": "2025-12-27",
+    "description": "Savings Transfer",
+    "amount": 320,
+    "category": "savings",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_c1c44171b05e",
+    "date": "2025-12-26",
+    "description": "Online Shop Order",
+    "amount": 130,
+    "category": "shopping",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_57f4baf0b384",
+    "date": "2025-12-25",
+    "description": "ACME Payroll",
+    "amount": 3800,
+    "category": "salary",
+    "account": "checking",
+    "type": "income"
+  },
+  {
+    "id": "tx_ddde3d06489c",
+    "date": "2025-12-23",
+    "description": "Downtown Cinema",
+    "amount": 31,
+    "category": "entertainment",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_eb2a719441a8",
+    "date": "2025-12-22",
+    "description": "Streaming Plus Subscription",
+    "amount": 19.99,
+    "category": "subscriptions",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_f204327311c3",
+    "date": "2025-12-20",
+    "description": "Green Grocers",
+    "amount": 103,
+    "category": "pendiente",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_a3185bc3d849",
+    "date": "2025-12-16",
+    "description": "Transit Pass",
+    "amount": 74,
+    "category": "transport",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_ab8746b72c3c",
+    "date": "2025-12-14",
+    "description": "Cafe Aurora",
+    "amount": 50,
+    "category": "dining",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_4240e54b3641",
+    "date": "2025-12-12",
+    "description": "Neighborhood Pharmacy",
+    "amount": 60,
+    "category": "health",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_822f48f75752",
+    "date": "2025-12-10",
+    "description": "Fresh Mart Grocery",
+    "amount": 204,
+    "category": "groceries",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_6a36b9618492",
+    "date": "2025-12-09",
+    "description": "City Utilities - Water",
+    "amount": 35,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_d3091e308847",
+    "date": "2025-12-05",
+    "description": "City Utilities - Electric",
+    "amount": 95,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_442266ee245e",
+    "date": "2025-12-01",
+    "description": "Apartment Rent",
+    "amount": 1200,
+    "category": "rent",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_482095963e4d",
+    "date": "2025-11-29",
+    "description": "Skyline Airlines",
+    "amount": 504,
+    "category": "travel",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_efc1ac09fbd9",
+    "date": "2025-11-27",
+    "description": "Savings Transfer",
+    "amount": 300,
+    "category": "savings",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_7561a1b7bb59",
+    "date": "2025-11-26",
+    "description": "Online Shop Order",
+    "amount": 120,
+    "category": "shopping",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_c9191305559f",
+    "date": "2025-11-25",
+    "description": "ACME Payroll",
+    "amount": 3950,
+    "category": "salary",
+    "account": "checking",
+    "type": "income"
+  },
+  {
+    "id": "tx_dcdc6ee91f46",
+    "date": "2025-11-23",
+    "description": "Downtown Cinema",
+    "amount": 28,
+    "category": "entertainment",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_a95cf451bc71",
+    "date": "2025-11-22",
+    "description": "Streaming Plus Subscription",
+    "amount": 19.99,
+    "category": "subscriptions",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_08f8e1e6f732",
+    "date": "2025-11-20",
+    "description": "Green Grocers",
+    "amount": 95,
+    "category": "pendiente",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_07bdebe5b425",
+    "date": "2025-11-16",
+    "description": "Transit Pass",
+    "amount": 70,
+    "category": "transport",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_bc81e4904907",
+    "date": "2025-11-14",
+    "description": "Cafe Aurora",
+    "amount": 45,
+    "category": "dining",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_05d7e7c36ebc",
+    "date": "2025-11-12",
+    "description": "Happy Paws Pet Food",
+    "amount": 52,
+    "category": "pets",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_64758ce65647",
+    "date": "2025-11-10",
+    "description": "Fresh Mart Grocery",
+    "amount": 192,
+    "category": "groceries",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_91a31e19524b",
+    "date": "2025-11-09",
+    "description": "City Utilities - Water",
+    "amount": 38,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_2ce778facb45",
+    "date": "2025-11-07",
+    "description": "Community Charity",
+    "amount": 25,
+    "category": "pendiente",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_e1f4aa074a76",
+    "date": "2025-11-05",
+    "description": "City Utilities - Electric",
+    "amount": 90,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_05a17e56a108",
+    "date": "2025-11-01",
+    "description": "Apartment Rent",
+    "amount": 1225,
+    "category": "rent",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_701a2b8c02e6",
+    "date": "2025-10-27",
+    "description": "Savings Transfer",
+    "amount": 340,
+    "category": "savings",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_528af23a194c",
+    "date": "2025-10-26",
+    "description": "Online Shop Order",
+    "amount": 140,
+    "category": "shopping",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_06fe6aacde59",
+    "date": "2025-10-25",
+    "description": "ACME Payroll",
+    "amount": 3800,
+    "category": "salary",
+    "account": "checking",
+    "type": "income"
+  },
+  {
+    "id": "tx_5e1c4719d26b",
+    "date": "2025-10-23",
+    "description": "Downtown Cinema",
+    "amount": 34,
+    "category": "entertainment",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_c3ac940ce292",
+    "date": "2025-10-22",
+    "description": "Streaming Plus Subscription",
+    "amount": 19.99,
+    "category": "subscriptions",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_f2497d221218",
+    "date": "2025-10-20",
+    "description": "Green Grocers",
+    "amount": 111,
+    "category": "pendiente",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_2fdab79b1a77",
+    "date": "2025-10-16",
+    "description": "Transit Pass",
+    "amount": 78,
+    "category": "transport",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_87fb656afa2e",
+    "date": "2025-10-14",
+    "description": "Cafe Aurora",
+    "amount": 55,
+    "category": "dining",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_a183f7217a44",
+    "date": "2025-10-12",
+    "description": "Neighborhood Pharmacy",
+    "amount": 54,
+    "category": "health",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_e526b0751d7f",
+    "date": "2025-10-10",
+    "description": "Fresh Mart Grocery",
+    "amount": 180,
+    "category": "groceries",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_f1db49ad83b4",
+    "date": "2025-10-09",
+    "description": "City Utilities - Water",
+    "amount": 35,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_b2a9eedb7ccd",
+    "date": "2025-10-05",
+    "description": "City Utilities - Electric",
+    "amount": 100,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_deeffcf211d8",
+    "date": "2025-10-01",
+    "description": "Apartment Rent",
+    "amount": 1200,
+    "category": "rent",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_3265caf6b771",
+    "date": "2025-09-27",
+    "description": "Savings Transfer",
+    "amount": 320,
+    "category": "savings",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_e20f117e1d18",
+    "date": "2025-09-26",
+    "description": "Online Shop Order",
+    "amount": 130,
+    "category": "shopping",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_2681c8cb3722",
+    "date": "2025-09-25",
+    "description": "ACME Payroll",
+    "amount": 3950,
+    "category": "salary",
+    "account": "checking",
+    "type": "income"
+  },
+  {
+    "id": "tx_d7dfbdc5c778",
+    "date": "2025-09-23",
+    "description": "Downtown Cinema",
+    "amount": 31,
+    "category": "entertainment",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_6cf8b99f5ab8",
+    "date": "2025-09-22",
+    "description": "Streaming Plus Subscription",
+    "amount": 19.99,
+    "category": "subscriptions",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_3432e26769cc",
+    "date": "2025-09-20",
+    "description": "Green Grocers",
+    "amount": 103,
+    "category": "pendiente",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_58de9c78f60d",
+    "date": "2025-09-16",
+    "description": "Transit Pass",
+    "amount": 74,
+    "category": "transport",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_2e0eb367916c",
+    "date": "2025-09-14",
+    "description": "Cafe Aurora",
+    "amount": 50,
+    "category": "dining",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_4e6b4e7afa11",
+    "date": "2025-09-12",
+    "description": "Happy Paws Pet Food",
+    "amount": 51,
+    "category": "pets",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_2f536eda8c5a",
+    "date": "2025-09-10",
+    "description": "Fresh Mart Grocery",
+    "amount": 216,
+    "category": "groceries",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_59181a77625d",
+    "date": "2025-09-09",
+    "description": "City Utilities - Water",
+    "amount": 38,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_904e46eb8c58",
+    "date": "2025-09-05",
+    "description": "City Utilities - Electric",
+    "amount": 95,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_179baab7c532",
+    "date": "2025-09-01",
+    "description": "Apartment Rent",
+    "amount": 1225,
+    "category": "rent",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_22c79c0d5148",
+    "date": "2025-08-27",
+    "description": "Savings Transfer",
+    "amount": 300,
+    "category": "savings",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_3000090d983a",
+    "date": "2025-08-26",
+    "description": "Online Shop Order",
+    "amount": 120,
+    "category": "shopping",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_50d4cf8670cb",
+    "date": "2025-08-25",
+    "description": "ACME Payroll",
+    "amount": 3800,
+    "category": "salary",
+    "account": "checking",
+    "type": "income"
+  },
+  {
+    "id": "tx_f699c5c51b42",
+    "date": "2025-08-23",
+    "description": "Downtown Cinema",
+    "amount": 28,
+    "category": "entertainment",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_319f52018ed4",
+    "date": "2025-08-22",
+    "description": "Streaming Plus Subscription",
+    "amount": 19.99,
+    "category": "subscriptions",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_c070bb74f1e6",
+    "date": "2025-08-20",
+    "description": "Green Grocers",
+    "amount": 95,
+    "category": "pendiente",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_23a392f5cc13",
+    "date": "2025-08-16",
+    "description": "Transit Pass",
+    "amount": 70,
+    "category": "transport",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_85fe1f031290",
+    "date": "2025-08-14",
+    "description": "Cafe Aurora",
+    "amount": 45,
+    "category": "dining",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_880532229759",
+    "date": "2025-08-12",
+    "description": "Neighborhood Pharmacy",
+    "amount": 50,
+    "category": "health",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_c1a094d897cc",
+    "date": "2025-08-10",
+    "description": "Fresh Mart Grocery",
+    "amount": 204,
+    "category": "groceries",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_16145812486f",
+    "date": "2025-08-09",
+    "description": "City Utilities - Water",
+    "amount": 35,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_234408ee0610",
+    "date": "2025-08-05",
+    "description": "City Utilities - Electric",
+    "amount": 90,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_52756c2ecb38",
+    "date": "2025-08-01",
+    "description": "Apartment Rent",
+    "amount": 1200,
+    "category": "rent",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_3ffdc0b822ef",
+    "date": "2025-07-27",
+    "description": "Savings Transfer",
+    "amount": 340,
+    "category": "savings",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_44fe115dd198",
+    "date": "2025-07-26",
+    "description": "Online Shop Order",
+    "amount": 140,
+    "category": "shopping",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_ac1061ab84b0",
+    "date": "2025-07-25",
+    "description": "ACME Payroll",
+    "amount": 3950,
+    "category": "salary",
+    "account": "checking",
+    "type": "income"
+  },
+  {
+    "id": "tx_04505c656182",
+    "date": "2025-07-23",
+    "description": "Downtown Cinema",
+    "amount": 34,
+    "category": "entertainment",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_9f8f3de7a54d",
+    "date": "2025-07-22",
+    "description": "Streaming Plus Subscription",
+    "amount": 19.99,
+    "category": "subscriptions",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_08e177cecbb2",
+    "date": "2025-07-20",
+    "description": "Green Grocers",
+    "amount": 111,
+    "category": "pendiente",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_e5878e88243e",
+    "date": "2025-07-16",
+    "description": "Transit Pass",
+    "amount": 78,
+    "category": "transport",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_0fdb0f7291ad",
+    "date": "2025-07-14",
+    "description": "Cafe Aurora",
+    "amount": 55,
+    "category": "dining",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_3b787cdfbfbf",
+    "date": "2025-07-12",
+    "description": "Happy Paws Pet Food",
+    "amount": 48,
+    "category": "pets",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_8d0539729a65",
+    "date": "2025-07-10",
+    "description": "Fresh Mart Grocery",
+    "amount": 192,
+    "category": "groceries",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_1f781a058adb",
+    "date": "2025-07-09",
+    "description": "City Utilities - Water",
+    "amount": 38,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_da0414e47cee",
+    "date": "2025-07-05",
+    "description": "City Utilities - Electric",
+    "amount": 100,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_641f2f1e1f46",
+    "date": "2025-07-01",
+    "description": "Apartment Rent",
+    "amount": 1225,
+    "category": "rent",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_d0f8baa41b9b",
+    "date": "2025-06-27",
+    "description": "Savings Transfer",
+    "amount": 320,
+    "category": "savings",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_a146212da70e",
+    "date": "2025-06-26",
+    "description": "Online Shop Order",
+    "amount": 130,
+    "category": "shopping",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_6bf19b40d534",
+    "date": "2025-06-25",
+    "description": "ACME Payroll",
+    "amount": 3800,
+    "category": "salary",
+    "account": "checking",
+    "type": "income"
+  },
+  {
+    "id": "tx_fbab66e0a62d",
+    "date": "2025-06-23",
+    "description": "Downtown Cinema",
+    "amount": 31,
+    "category": "entertainment",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_1600d4ec2ef0",
+    "date": "2025-06-22",
+    "description": "Streaming Plus Subscription",
+    "amount": 19.99,
+    "category": "subscriptions",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_a334a171bdf6",
+    "date": "2025-06-20",
+    "description": "Green Grocers",
+    "amount": 103,
+    "category": "pendiente",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_c6c64f6fc64f",
+    "date": "2025-06-16",
+    "description": "Transit Pass",
+    "amount": 74,
+    "category": "transport",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_409de2726e41",
+    "date": "2025-06-15",
+    "description": "Online Course Platform",
+    "amount": 160,
+    "category": "education",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_c248a823a2a5",
+    "date": "2025-06-14",
+    "description": "Cafe Aurora",
+    "amount": 50,
+    "category": "dining",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_29bdcc9522b2",
+    "date": "2025-06-12",
+    "description": "Neighborhood Pharmacy",
+    "amount": 46,
+    "category": "health",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_fd8b85dc0a10",
+    "date": "2025-06-10",
+    "description": "Fresh Mart Grocery",
+    "amount": 180,
+    "category": "groceries",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_ba5f3f7be83c",
+    "date": "2025-06-09",
+    "description": "City Utilities - Water",
+    "amount": 35,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_8843a523949a",
+    "date": "2025-06-05",
+    "description": "City Utilities - Electric",
+    "amount": 95,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_3957b6d06ca2",
+    "date": "2025-06-01",
+    "description": "Apartment Rent",
+    "amount": 1200,
+    "category": "rent",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_2a4676b7da1f",
+    "date": "2025-05-29",
+    "description": "Skyline Airlines",
+    "amount": 468,
+    "category": "travel",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_1abc5e7f4a3e",
+    "date": "2025-05-27",
+    "description": "Savings Transfer",
+    "amount": 300,
+    "category": "savings",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_7f5fe6506e4b",
+    "date": "2025-05-26",
+    "description": "Online Shop Order",
+    "amount": 120,
+    "category": "shopping",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_b6a3ef501515",
+    "date": "2025-05-25",
+    "description": "ACME Payroll",
+    "amount": 3950,
+    "category": "salary",
+    "account": "checking",
+    "type": "income"
+  },
+  {
+    "id": "tx_209e405b5b5c",
+    "date": "2025-05-23",
+    "description": "Downtown Cinema",
+    "amount": 28,
+    "category": "entertainment",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_8eb47b514020",
+    "date": "2025-05-22",
+    "description": "Streaming Plus Subscription",
+    "amount": 19.99,
+    "category": "subscriptions",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_9522a2bc4419",
+    "date": "2025-05-20",
+    "description": "Green Grocers",
+    "amount": 95,
+    "category": "pendiente",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_8a7834ce671b",
+    "date": "2025-05-16",
+    "description": "Transit Pass",
+    "amount": 70,
+    "category": "transport",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_5be3fd6c415c",
+    "date": "2025-05-14",
+    "description": "Cafe Aurora",
+    "amount": 45,
+    "category": "dining",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_02cede05d746",
+    "date": "2025-05-12",
+    "description": "Happy Paws Pet Food",
+    "amount": 46,
+    "category": "pets",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_df648cd67fbe",
+    "date": "2025-05-10",
+    "description": "Fresh Mart Grocery",
+    "amount": 216,
+    "category": "groceries",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_be30f6d20166",
+    "date": "2025-05-09",
+    "description": "City Utilities - Water",
+    "amount": 38,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_012c73507186",
+    "date": "2025-05-05",
+    "description": "City Utilities - Electric",
+    "amount": 90,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_46465daae691",
+    "date": "2025-05-01",
+    "description": "Apartment Rent",
+    "amount": 1225,
+    "category": "rent",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_b721dc20ac81",
+    "date": "2025-04-27",
+    "description": "Savings Transfer",
+    "amount": 340,
+    "category": "savings",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_a95a6bb34d54",
+    "date": "2025-04-26",
+    "description": "Online Shop Order",
+    "amount": 140,
+    "category": "shopping",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_b5fb9078a3f7",
+    "date": "2025-04-25",
+    "description": "ACME Payroll",
+    "amount": 3800,
+    "category": "salary",
+    "account": "checking",
+    "type": "income"
+  },
+  {
+    "id": "tx_1d621734538d",
+    "date": "2025-04-23",
+    "description": "Downtown Cinema",
+    "amount": 34,
+    "category": "entertainment",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_7d813851c0ec",
+    "date": "2025-04-22",
+    "description": "Streaming Plus Subscription",
+    "amount": 19.99,
+    "category": "subscriptions",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_bc6f5a15b14e",
+    "date": "2025-04-20",
+    "description": "Green Grocers",
+    "amount": 111,
+    "category": "pendiente",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_2a1194b75fa2",
+    "date": "2025-04-16",
+    "description": "Transit Pass",
+    "amount": 78,
+    "category": "transport",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_327ccf60e736",
+    "date": "2025-04-14",
+    "description": "Cafe Aurora",
+    "amount": 55,
+    "category": "dining",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_f22cc46e9972",
+    "date": "2025-04-12",
+    "description": "Neighborhood Pharmacy",
+    "amount": 40,
+    "category": "health",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_5bbb4ea42f0d",
+    "date": "2025-04-10",
+    "description": "Fresh Mart Grocery",
+    "amount": 204,
+    "category": "groceries",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_9649799f3710",
+    "date": "2025-04-09",
+    "description": "City Utilities - Water",
+    "amount": 35,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_31de73e07b90",
+    "date": "2025-04-05",
+    "description": "City Utilities - Electric",
+    "amount": 100,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_310d7496020b",
+    "date": "2025-04-01",
+    "description": "Apartment Rent",
+    "amount": 1200,
+    "category": "rent",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_7f1b77f123c6",
+    "date": "2025-03-27",
+    "description": "Savings Transfer",
+    "amount": 320,
+    "category": "savings",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_14bf253059dd",
+    "date": "2025-03-26",
+    "description": "Online Shop Order",
+    "amount": 130,
+    "category": "shopping",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_809b215c530a",
+    "date": "2025-03-25",
+    "description": "ACME Payroll",
+    "amount": 3950,
+    "category": "salary",
+    "account": "checking",
+    "type": "income"
+  },
+  {
+    "id": "tx_de729e805e5e",
+    "date": "2025-03-23",
+    "description": "Downtown Cinema",
+    "amount": 31,
+    "category": "entertainment",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_ada2270e8e1c",
+    "date": "2025-03-22",
+    "description": "Streaming Plus Subscription",
+    "amount": 19.99,
+    "category": "subscriptions",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_792e96e0e1e3",
+    "date": "2025-03-20",
+    "description": "Green Grocers",
+    "amount": 103,
+    "category": "pendiente",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_39a02148a2de",
+    "date": "2025-03-16",
+    "description": "Transit Pass",
+    "amount": 74,
+    "category": "transport",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_41ca3c86d824",
+    "date": "2025-03-14",
+    "description": "Cafe Aurora",
+    "amount": 50,
+    "category": "dining",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_e9ad42f7b412",
+    "date": "2025-03-12",
+    "description": "Happy Paws Pet Food",
+    "amount": 43,
+    "category": "pets",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_a4cc78fbc6af",
+    "date": "2025-03-10",
+    "description": "Fresh Mart Grocery",
+    "amount": 192,
+    "category": "groceries",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_1a65af0e4a4d",
+    "date": "2025-03-09",
+    "description": "City Utilities - Water",
+    "amount": 38,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_4c583beabc18",
+    "date": "2025-03-05",
+    "description": "City Utilities - Electric",
+    "amount": 95,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_ed65453b0156",
+    "date": "2025-03-01",
+    "description": "Apartment Rent",
+    "amount": 1225,
+    "category": "rent",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_c2baa3ab4d8e",
+    "date": "2025-02-27",
+    "description": "Savings Transfer",
+    "amount": 300,
+    "category": "savings",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_ae185f6a52e1",
+    "date": "2025-02-26",
+    "description": "Online Shop Order",
+    "amount": 120,
+    "category": "shopping",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_c0229b2a79b7",
+    "date": "2025-02-25",
+    "description": "ACME Payroll",
+    "amount": 3800,
+    "category": "salary",
+    "account": "checking",
+    "type": "income"
+  },
+  {
+    "id": "tx_cfd307be6b68",
+    "date": "2025-02-23",
+    "description": "Downtown Cinema",
+    "amount": 28,
+    "category": "entertainment",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_97f02efa270e",
+    "date": "2025-02-22",
+    "description": "Streaming Plus Subscription",
+    "amount": 19.99,
+    "category": "subscriptions",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_5b2befbca6c9",
+    "date": "2025-02-20",
+    "description": "Green Grocers",
+    "amount": 95,
+    "category": "pendiente",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_6f04471ebb38",
+    "date": "2025-02-16",
+    "description": "Transit Pass",
+    "amount": 70,
+    "category": "transport",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_3c05f2b24869",
+    "date": "2025-02-14",
+    "description": "Cafe Aurora",
+    "amount": 45,
+    "category": "dining",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_a5fc1b5ad79d",
+    "date": "2025-02-12",
+    "description": "Neighborhood Pharmacy",
+    "amount": 34,
+    "category": "health",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_bb173591eab1",
+    "date": "2025-02-10",
+    "description": "Fresh Mart Grocery",
+    "amount": 180,
+    "category": "groceries",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_317c66998b4d",
+    "date": "2025-02-09",
+    "description": "City Utilities - Water",
+    "amount": 35,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_7de2b8a1c134",
+    "date": "2025-02-05",
+    "description": "City Utilities - Electric",
+    "amount": 90,
+    "category": "utilities",
+    "account": "checking",
+    "type": "expense"
+  },
+  {
+    "id": "tx_b35a6c2a6ecd",
+    "date": "2025-02-01",
+    "description": "Apartment Rent",
+    "amount": 1200,
+    "category": "rent",
+    "account": "checking",
+    "type": "expense"
+  }
+]

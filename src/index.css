@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 222 47% 6%;
+    --foreground: 210 40% 98%;
+
+    --card: 222 47% 8%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222 47% 10%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 160 84% 39%;
+    --primary-foreground: 222 47% 6%;
+
+    --secondary: 222 30% 14%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 222 30% 14%;
+    --muted-foreground: 215 20% 55%;
+
+    --accent: 222 30% 18%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 210 40% 98%;
+
+    --success: 160 84% 39%;
+    --success-foreground: 222 47% 6%;
+
+    --warning: 38 92% 50%;
+    --warning-foreground: 222 47% 6%;
+
+    --expense: 0 72% 60%;
+    --income: 160 84% 45%;
+
+    --border: 222 30% 18%;
+    --input: 222 30% 18%;
+    --ring: 160 84% 39%;
+
+    --radius: 0.75rem;
+
+    --chart-1: 160 84% 39%;
+    --chart-2: 200 80% 50%;
+    --chart-3: 280 70% 60%;
+    --chart-4: 38 92% 50%;
+    --chart-5: 0 72% 60%;
+
+    --sidebar-background: 222 47% 8%;
+    --sidebar-foreground: 210 40% 98%;
+    --sidebar-primary: 160 84% 39%;
+    --sidebar-primary-foreground: 222 47% 6%;
+    --sidebar-accent: 222 30% 14%;
+    --sidebar-accent-foreground: 210 40% 98%;
+    --sidebar-border: 222 30% 18%;
+    --sidebar-ring: 160 84% 39%;
+
+    /* Glassmorphism */
+    --glass-bg: 222 47% 10% / 0.6;
+    --glass-border: 222 30% 25% / 0.3;
+
+    /* Gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(160 84% 39%), hsl(180 70% 35%));
+    --gradient-card: linear-gradient(180deg, hsl(222 47% 10%), hsl(222 47% 8%));
+    --gradient-expense: linear-gradient(135deg, hsl(0 72% 60%), hsl(20 80% 50%));
+    --gradient-income: linear-gradient(135deg, hsl(160 84% 45%), hsl(140 70% 40%));
+
+    /* Shadows */
+    --shadow-sm: 0 2px 8px hsl(222 47% 4% / 0.3);
+    --shadow-md: 0 4px 16px hsl(222 47% 4% / 0.4);
+    --shadow-lg: 0 8px 32px hsl(222 47% 4% / 0.5);
+    --shadow-glow: 0 0 20px hsl(160 84% 39% / 0.2);
+  }
+
+  .dark {
+    --background: 222 47% 6%;
+    --foreground: 210 40% 98%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: 'DM Sans', sans-serif;
+  }
+
+  .font-mono {
+    font-family: 'JetBrains Mono', monospace;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-card/60 backdrop-blur-xl border border-border/30 rounded-xl;
+    box-shadow: var(--shadow-md);
+  }
+
+  .stat-card {
+    @apply glass-card p-6 transition-all duration-300 hover:border-primary/30;
+  }
+
+  .stat-card:hover {
+    box-shadow: var(--shadow-glow);
+  }
+
+  .gradient-text {
+    @apply bg-clip-text text-transparent;
+    background-image: var(--gradient-primary);
+  }
+
+  .expense-text {
+    color: hsl(var(--expense));
+  }
+
+  .income-text {
+    color: hsl(var(--income));
+  }
+
+  .category-badge {
+    @apply px-3 py-1 rounded-full text-xs font-medium transition-all duration-200;
+  }
+}
+
+@layer utilities {
+  .animate-fade-in {
+    animation: fadeIn 0.5s ease-out forwards;
+  }
+
+  .animate-slide-up {
+    animation: slideUp 0.5s ease-out forwards;
+  }
+
+  .animate-scale-in {
+    animation: scaleIn 0.3s ease-out forwards;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  @keyframes slideUp {
+    from { 
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to { 
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes scaleIn {
+    from { 
+      opacity: 0;
+      transform: scale(0.95);
+    }
+    to { 
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+}

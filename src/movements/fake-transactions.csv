@@ -1,0 +1,165 @@
+Fake Bank Export
+Account: Demo Checking
+Generated: 2026-01-03
+Currency: EUR
+----
+;01/02/2025;01/02/2025;Apartment Rent;Rent;-1200,00;EUR;8800,00
+;05/02/2025;05/02/2025;City Utilities - Electric;Utilities;-90,00;EUR;8710,00
+;09/02/2025;09/02/2025;City Utilities - Water;Utilities;-35,00;EUR;8675,00
+;10/02/2025;10/02/2025;Fresh Mart Grocery;Card;-180,00;EUR;8495,00
+;12/02/2025;12/02/2025;Neighborhood Pharmacy;Card;-34,00;EUR;8461,00
+;14/02/2025;14/02/2025;Cafe Aurora;Card;-45,00;EUR;8416,00
+;16/02/2025;16/02/2025;Transit Pass;Transit;-70,00;EUR;8346,00
+;20/02/2025;20/02/2025;Green Grocers;Card;-95,00;EUR;8251,00
+;22/02/2025;22/02/2025;Streaming Plus Subscription;Subscription;-19,99;EUR;8231,01
+;23/02/2025;23/02/2025;Downtown Cinema;Card;-28,00;EUR;8203,01
+;25/02/2025;25/02/2025;ACME Payroll;Payroll;3800,00;EUR;12003,01
+;26/02/2025;26/02/2025;Online Shop Order;Card;-120,00;EUR;11883,01
+;27/02/2025;27/02/2025;Savings Transfer;Transfer;-300,00;EUR;11583,01
+;01/03/2025;01/03/2025;Apartment Rent;Rent;-1225,00;EUR;10358,01
+;05/03/2025;05/03/2025;City Utilities - Electric;Utilities;-95,00;EUR;10263,01
+;09/03/2025;09/03/2025;City Utilities - Water;Utilities;-38,00;EUR;10225,01
+;10/03/2025;10/03/2025;Fresh Mart Grocery;Card;-192,00;EUR;10033,01
+;12/03/2025;12/03/2025;Happy Paws Pet Food;Card;-43,00;EUR;9990,01
+;14/03/2025;14/03/2025;Cafe Aurora;Card;-50,00;EUR;9940,01
+;16/03/2025;16/03/2025;Transit Pass;Transit;-74,00;EUR;9866,01
+;20/03/2025;20/03/2025;Green Grocers;Card;-103,00;EUR;9763,01
+;22/03/2025;22/03/2025;Streaming Plus Subscription;Subscription;-19,99;EUR;9743,02
+;23/03/2025;23/03/2025;Downtown Cinema;Card;-31,00;EUR;9712,02
+;25/03/2025;25/03/2025;ACME Payroll;Payroll;3950,00;EUR;13662,02
+;26/03/2025;26/03/2025;Online Shop Order;Card;-130,00;EUR;13532,02
+;27/03/2025;27/03/2025;Savings Transfer;Transfer;-320,00;EUR;13212,02
+;01/04/2025;01/04/2025;Apartment Rent;Rent;-1200,00;EUR;12012,02
+;05/04/2025;05/04/2025;City Utilities - Electric;Utilities;-100,00;EUR;11912,02
+;09/04/2025;09/04/2025;City Utilities - Water;Utilities;-35,00;EUR;11877,02
+;10/04/2025;10/04/2025;Fresh Mart Grocery;Card;-204,00;EUR;11673,02
+;12/04/2025;12/04/2025;Neighborhood Pharmacy;Card;-40,00;EUR;11633,02
+;14/04/2025;14/04/2025;Cafe Aurora;Card;-55,00;EUR;11578,02
+;16/04/2025;16/04/2025;Transit Pass;Transit;-78,00;EUR;11500,02
+;20/04/2025;20/04/2025;Green Grocers;Card;-111,00;EUR;11389,02
+;22/04/2025;22/04/2025;Streaming Plus Subscription;Subscription;-19,99;EUR;11369,03
+;23/04/2025;23/04/2025;Downtown Cinema;Card;-34,00;EUR;11335,03
+;25/04/2025;25/04/2025;ACME Payroll;Payroll;3800,00;EUR;15135,03
+;26/04/2025;26/04/2025;Online Shop Order;Card;-140,00;EUR;14995,03
+;27/04/2025;27/04/2025;Savings Transfer;Transfer;-340,00;EUR;14655,03
+;01/05/2025;01/05/2025;Apartment Rent;Rent;-1225,00;EUR;13430,03
+;05/05/2025;05/05/2025;City Utilities - Electric;Utilities;-90,00;EUR;13340,03
+;09/05/2025;09/05/2025;City Utilities - Water;Utilities;-38,00;EUR;13302,03
+;10/05/2025;10/05/2025;Fresh Mart Grocery;Card;-216,00;EUR;13086,03
+;12/05/2025;12/05/2025;Happy Paws Pet Food;Card;-46,00;EUR;13040,03
+;14/05/2025;14/05/2025;Cafe Aurora;Card;-45,00;EUR;12995,03
+;16/05/2025;16/05/2025;Transit Pass;Transit;-70,00;EUR;12925,03
+;20/05/2025;20/05/2025;Green Grocers;Card;-95,00;EUR;12830,03
+;22/05/2025;22/05/2025;Streaming Plus Subscription;Subscription;-19,99;EUR;12810,04
+;23/05/2025;23/05/2025;Downtown Cinema;Card;-28,00;EUR;12782,04
+;25/05/2025;25/05/2025;ACME Payroll;Payroll;3950,00;EUR;16732,04
+;26/05/2025;26/05/2025;Online Shop Order;Card;-120,00;EUR;16612,04
+;27/05/2025;27/05/2025;Savings Transfer;Transfer;-300,00;EUR;16312,04
+;29/05/2025;29/05/2025;Skyline Airlines;Travel;-468,00;EUR;15844,04
+;01/06/2025;01/06/2025;Apartment Rent;Rent;-1200,00;EUR;14644,04
+;05/06/2025;05/06/2025;City Utilities - Electric;Utilities;-95,00;EUR;14549,04
+;09/06/2025;09/06/2025;City Utilities - Water;Utilities;-35,00;EUR;14514,04
+;10/06/2025;10/06/2025;Fresh Mart Grocery;Card;-180,00;EUR;14334,04
+;12/06/2025;12/06/2025;Neighborhood Pharmacy;Card;-46,00;EUR;14288,04
+;14/06/2025;14/06/2025;Cafe Aurora;Card;-50,00;EUR;14238,04
+;15/06/2025;15/06/2025;Online Course Platform;Course;-160,00;EUR;14078,04
+;16/06/2025;16/06/2025;Transit Pass;Transit;-74,00;EUR;14004,04
+;20/06/2025;20/06/2025;Green Grocers;Card;-103,00;EUR;13901,04
+;22/06/2025;22/06/2025;Streaming Plus Subscription;Subscription;-19,99;EUR;13881,05
+;23/06/2025;23/06/2025;Downtown Cinema;Card;-31,00;EUR;13850,05
+;25/06/2025;25/06/2025;ACME Payroll;Payroll;3800,00;EUR;17650,05
+;26/06/2025;26/06/2025;Online Shop Order;Card;-130,00;EUR;17520,05
+;27/06/2025;27/06/2025;Savings Transfer;Transfer;-320,00;EUR;17200,05
+;01/07/2025;01/07/2025;Apartment Rent;Rent;-1225,00;EUR;15975,05
+;05/07/2025;05/07/2025;City Utilities - Electric;Utilities;-100,00;EUR;15875,05
+;09/07/2025;09/07/2025;City Utilities - Water;Utilities;-38,00;EUR;15837,05
+;10/07/2025;10/07/2025;Fresh Mart Grocery;Card;-192,00;EUR;15645,05
+;12/07/2025;12/07/2025;Happy Paws Pet Food;Card;-48,00;EUR;15597,05
+;14/07/2025;14/07/2025;Cafe Aurora;Card;-55,00;EUR;15542,05
+;16/07/2025;16/07/2025;Transit Pass;Transit;-78,00;EUR;15464,05
+;20/07/2025;20/07/2025;Green Grocers;Card;-111,00;EUR;15353,05
+;22/07/2025;22/07/2025;Streaming Plus Subscription;Subscription;-19,99;EUR;15333,06
+;23/07/2025;23/07/2025;Downtown Cinema;Card;-34,00;EUR;15299,06
+;25/07/2025;25/07/2025;ACME Payroll;Payroll;3950,00;EUR;19249,06
+;26/07/2025;26/07/2025;Online Shop Order;Card;-140,00;EUR;19109,06
+;27/07/2025;27/07/2025;Savings Transfer;Transfer;-340,00;EUR;18769,06
+;01/08/2025;01/08/2025;Apartment Rent;Rent;-1200,00;EUR;17569,06
+;05/08/2025;05/08/2025;City Utilities - Electric;Utilities;-90,00;EUR;17479,06
+;09/08/2025;09/08/2025;City Utilities - Water;Utilities;-35,00;EUR;17444,06
+;10/08/2025;10/08/2025;Fresh Mart Grocery;Card;-204,00;EUR;17240,06
+;12/08/2025;12/08/2025;Neighborhood Pharmacy;Card;-50,00;EUR;17190,06
+;14/08/2025;14/08/2025;Cafe Aurora;Card;-45,00;EUR;17145,06
+;16/08/2025;16/08/2025;Transit Pass;Transit;-70,00;EUR;17075,06
+;20/08/2025;20/08/2025;Green Grocers;Card;-95,00;EUR;16980,06
+;22/08/2025;22/08/2025;Streaming Plus Subscription;Subscription;-19,99;EUR;16960,07
+;23/08/2025;23/08/2025;Downtown Cinema;Card;-28,00;EUR;16932,07
+;25/08/2025;25/08/2025;ACME Payroll;Payroll;3800,00;EUR;20732,07
+;26/08/2025;26/08/2025;Online Shop Order;Card;-120,00;EUR;20612,07
+;27/08/2025;27/08/2025;Savings Transfer;Transfer;-300,00;EUR;20312,07
+;01/09/2025;01/09/2025;Apartment Rent;Rent;-1225,00;EUR;19087,07
+;05/09/2025;05/09/2025;City Utilities - Electric;Utilities;-95,00;EUR;18992,07
+;09/09/2025;09/09/2025;City Utilities - Water;Utilities;-38,00;EUR;18954,07
+;10/09/2025;10/09/2025;Fresh Mart Grocery;Card;-216,00;EUR;18738,07
+;12/09/2025;12/09/2025;Happy Paws Pet Food;Card;-51,00;EUR;18687,07
+;14/09/2025;14/09/2025;Cafe Aurora;Card;-50,00;EUR;18637,07
+;16/09/2025;16/09/2025;Transit Pass;Transit;-74,00;EUR;18563,07
+;20/09/2025;20/09/2025;Green Grocers;Card;-103,00;EUR;18460,07
+;22/09/2025;22/09/2025;Streaming Plus Subscription;Subscription;-19,99;EUR;18440,08
+;23/09/2025;23/09/2025;Downtown Cinema;Card;-31,00;EUR;18409,08
+;25/09/2025;25/09/2025;ACME Payroll;Payroll;3950,00;EUR;22359,08
+;26/09/2025;26/09/2025;Online Shop Order;Card;-130,00;EUR;22229,08
+;27/09/2025;27/09/2025;Savings Transfer;Transfer;-320,00;EUR;21909,08
+;01/10/2025;01/10/2025;Apartment Rent;Rent;-1200,00;EUR;20709,08
+;05/10/2025;05/10/2025;City Utilities - Electric;Utilities;-100,00;EUR;20609,08
+;09/10/2025;09/10/2025;City Utilities - Water;Utilities;-35,00;EUR;20574,08
+;10/10/2025;10/10/2025;Fresh Mart Grocery;Card;-180,00;EUR;20394,08
+;12/10/2025;12/10/2025;Neighborhood Pharmacy;Card;-54,00;EUR;20340,08
+;14/10/2025;14/10/2025;Cafe Aurora;Card;-55,00;EUR;20285,08
+;16/10/2025;16/10/2025;Transit Pass;Transit;-78,00;EUR;20207,08
+;20/10/2025;20/10/2025;Green Grocers;Card;-111,00;EUR;20096,08
+;22/10/2025;22/10/2025;Streaming Plus Subscription;Subscription;-19,99;EUR;20076,09
+;23/10/2025;23/10/2025;Downtown Cinema;Card;-34,00;EUR;20042,09
+;25/10/2025;25/10/2025;ACME Payroll;Payroll;3800,00;EUR;23842,09
+;26/10/2025;26/10/2025;Online Shop Order;Card;-140,00;EUR;23702,09
+;27/10/2025;27/10/2025;Savings Transfer;Transfer;-340,00;EUR;23362,09
+;01/11/2025;01/11/2025;Apartment Rent;Rent;-1225,00;EUR;22137,09
+;05/11/2025;05/11/2025;City Utilities - Electric;Utilities;-90,00;EUR;22047,09
+;07/11/2025;07/11/2025;Community Charity;Card;-25,00;EUR;22022,09
+;09/11/2025;09/11/2025;City Utilities - Water;Utilities;-38,00;EUR;21984,09
+;10/11/2025;10/11/2025;Fresh Mart Grocery;Card;-192,00;EUR;21792,09
+;12/11/2025;12/11/2025;Happy Paws Pet Food;Card;-52,00;EUR;21740,09
+;14/11/2025;14/11/2025;Cafe Aurora;Card;-45,00;EUR;21695,09
+;16/11/2025;16/11/2025;Transit Pass;Transit;-70,00;EUR;21625,09
+;20/11/2025;20/11/2025;Green Grocers;Card;-95,00;EUR;21530,09
+;22/11/2025;22/11/2025;Streaming Plus Subscription;Subscription;-19,99;EUR;21510,10
+;23/11/2025;23/11/2025;Downtown Cinema;Card;-28,00;EUR;21482,10
+;25/11/2025;25/11/2025;ACME Payroll;Payroll;3950,00;EUR;25432,10
+;26/11/2025;26/11/2025;Online Shop Order;Card;-120,00;EUR;25312,10
+;27/11/2025;27/11/2025;Savings Transfer;Transfer;-300,00;EUR;25012,10
+;29/11/2025;29/11/2025;Skyline Airlines;Travel;-504,00;EUR;24508,10
+;01/12/2025;01/12/2025;Apartment Rent;Rent;-1200,00;EUR;23308,10
+;05/12/2025;05/12/2025;City Utilities - Electric;Utilities;-95,00;EUR;23213,10
+;09/12/2025;09/12/2025;City Utilities - Water;Utilities;-35,00;EUR;23178,10
+;10/12/2025;10/12/2025;Fresh Mart Grocery;Card;-204,00;EUR;22974,10
+;12/12/2025;12/12/2025;Neighborhood Pharmacy;Card;-60,00;EUR;22914,10
+;14/12/2025;14/12/2025;Cafe Aurora;Card;-50,00;EUR;22864,10
+;16/12/2025;16/12/2025;Transit Pass;Transit;-74,00;EUR;22790,10
+;20/12/2025;20/12/2025;Green Grocers;Card;-103,00;EUR;22687,10
+;22/12/2025;22/12/2025;Streaming Plus Subscription;Subscription;-19,99;EUR;22667,11
+;23/12/2025;23/12/2025;Downtown Cinema;Card;-31,00;EUR;22636,11
+;25/12/2025;25/12/2025;ACME Payroll;Payroll;3800,00;EUR;26436,11
+;26/12/2025;26/12/2025;Online Shop Order;Card;-130,00;EUR;26306,11
+;27/12/2025;27/12/2025;Savings Transfer;Transfer;-320,00;EUR;25986,11
+;01/01/2026;01/01/2026;Apartment Rent;Rent;-1225,00;EUR;24761,11
+;05/01/2026;05/01/2026;City Utilities - Electric;Utilities;-100,00;EUR;24661,11
+;09/01/2026;09/01/2026;City Utilities - Water;Utilities;-38,00;EUR;24623,11
+;10/01/2026;10/01/2026;Fresh Mart Grocery;Card;-216,00;EUR;24407,11
+;12/01/2026;12/01/2026;Happy Paws Pet Food;Card;-53,00;EUR;24354,11
+;14/01/2026;14/01/2026;Cafe Aurora;Card;-55,00;EUR;24299,11
+;16/01/2026;16/01/2026;Transit Pass;Transit;-78,00;EUR;24221,11
+;20/01/2026;20/01/2026;Green Grocers;Card;-111,00;EUR;24110,11
+;22/01/2026;22/01/2026;Streaming Plus Subscription;Subscription;-19,99;EUR;24090,12
+;23/01/2026;23/01/2026;Downtown Cinema;Card;-34,00;EUR;24056,12
+;25/01/2026;25/01/2026;ACME Payroll;Payroll;3950,00;EUR;28006,12
+;26/01/2026;26/01/2026;Online Shop Order;Card;-140,00;EUR;27866,12
+;27/01/2026;27/01/2026;Savings Transfer;Transfer;-340,00;EUR;27526,12

@@ -1,0 +1,5 @@
+# Bun configuration file
+# This file configures Bun-specific settings for the project
+# Bun will use bun.lockb as its lockfile, while npm uses package-lock.json
+# Both can coexist and be used independently
+
